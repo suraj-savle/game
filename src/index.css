@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: #3D7AD6;
+  --color-box: #C9F9FC;
+  --color-button: #C9F9FC;
+}
+
+*{
+  box-sizing: border-box;
+  overflow: hidden;
+}
