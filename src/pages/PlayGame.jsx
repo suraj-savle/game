@@ -74,4 +74,4 @@ function PlayGame() {
   );
 }
 
-export default PlayGame
+export default PlayGame;
